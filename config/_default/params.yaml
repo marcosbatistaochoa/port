@@ -10,7 +10,8 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
-
+  ai_icons: true
+  
 # SEO
 
 marketing:
