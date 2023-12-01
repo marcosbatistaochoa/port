@@ -29,9 +29,9 @@ bio: I am deeply engaged in the study of microeconomics and economic policy anal
 
 # Interests to show in About widget
 interests:
-  - Data Interpretation and Visualization
   - Microeconomic Analysis
   - Economic Policy Evaluation
+  - Data Visualization
 
 # Education to show in About widget
 education:
