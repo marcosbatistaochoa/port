@@ -84,9 +84,8 @@ sections:
           description: |2-
               Accomplishments:
 
-              * Contributed to most one of the most successful opening month nationwide in 2022 with over $100,000 in revenue generated
+              * Contributed to most one of the most successful opening months nationwide in 2022 with over $100,000 in revenue generated
               * Adjusted operations resulting in an 11% decrease in COGS by the third month of operation
-              * Performance led to branch being within the top 3 nationwide for 4 months in a row in terms of earnings and customer satisfaction
          - title: Packaging Associate
           company: Gold Standard Supplements LLC
           company_url: ''
@@ -97,9 +96,8 @@ sections:
           description: |2-
               Accomplishments:
 
-              * Streamlined the packaging process
               * Handled significant increases in volume, increasing output per day from 6 to 9 cases
-              * Collaborated with team members to optimize packaging techniques, ensuring consistency and quality in product handling             
+              * Collaborated with team members to optimize packaging techniques, ensuring consistency and quality in product
 #    design:
 #      columns: '2'
 #  - block: accomplishments
