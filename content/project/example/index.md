@@ -1,12 +1,10 @@
 ---
-title: Writing Sample
-summary: An example of using the in-built project page.
+- title: Writing Sample
+    summary: An example of using the in-built project page.
+    url: uploads/writingsample.pdf
 tags:
   - Writing Sample
 date: '2023-11-27T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: uploads/writingsample.pdf
 
 
 #image:
