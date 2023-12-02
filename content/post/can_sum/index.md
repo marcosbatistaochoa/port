@@ -1,6 +1,6 @@
 ---
 title: Candidate Summary
-date: November 3, 2023
+date: '2023-11-30'
 summary: I excel in simplifying complex concepts into engaging narratives, combining analytical thinking with creative strategy to solve problems effectively. My academic background in economics and mathematics, complemented by my programming skills, enhances my ability to apply economic theories professionally. 
 ---
 
