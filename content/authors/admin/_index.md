@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Marcos Batista is a student pursuing a BS in Economics and BS in Mathematics at Georgia State University. He specializes in translating complex economic and data analysis into accessible narratives, backed by skills in Microsoft Excel and Python. His academic journey fuels his goal to utilize these competencies in economic consultancy, driving strategic insights and impactful innovations.
+I am a student pursuing a BS in Economics and BS in Mathematics at Georgia State University. I excel at translating complex economic and data analysis into accessible narratives, backed by skills in Microsoft Excel and Python. My academic journey fuels my goal to utilize these competencies in economic consultancy, driving strategic insights and impactful innovations.
 {style="text-align: justify;"}
