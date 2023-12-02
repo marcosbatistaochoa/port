@@ -4,7 +4,7 @@ summary: An example of using the in-built project page.
 tags:
   - Writing Sample
 date: '2023-11-27T00:00:00Z'
-url: 
+url: uploads/writingsample.pdf
 
 #image:
 #  caption: Photo by rawpixel on Unsplash
