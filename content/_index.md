@@ -72,8 +72,8 @@ sections:
           description: |2-
               Responsibilities:
 
-              * Provide direct care in everyday life to young adult clients with physical disabilities
-              * Perform daily tasks including transporting client to and from his college classes and studying with the client
+              - Provide direct care in everyday life to young adult clients with physical disabilities
+              - Perform daily tasks including transporting client to and from his college classes and studying with the client
         - title: Chef/Team Member
           company: LifeTime Fitness, Inc.
           company_url: ''
@@ -84,9 +84,9 @@ sections:
           description:  |2-
               Accomplishments:
 
-              * Contributed to most one of the most successful opening month nationwide in 2022 with over $100,000 in revenue generated
-              * Adjusted operations resulting in an 11% decrease in COGS by the third month of operation
-              * Performance led to branch being within the top 3 nationwide for 4 months in a row in terms of earnings and customer satisfaction
+              - Contributed to most one of the most successful opening month nationwide in 2022 with over $100,000 in revenue generated
+              - Adjusted operations resulting in an 11% decrease in COGS by the third month of operation
+              - Performance led to branch being within the top 3 nationwide for 4 months in a row in terms of earnings and customer satisfaction
          - title: Packaging Associate
           company: Gold Standard Supplements LLC
           company_url: ''
@@ -97,9 +97,9 @@ sections:
           description: |2-
               Accomplishments:
 
-              * Streamlined the packaging process
-              * Handled significant increases in volume, increasing output per day from 6 to 9 cases
-              * Collaborated with team members to optimize packaging techniques, ensuring consistency and quality in product handling             
+              - Streamlined the packaging process
+              - Handled significant increases in volume, increasing output per day from 6 to 9 cases
+              - Collaborated with team members to optimize packaging techniques, ensuring consistency and quality in product handling             
 #    design:
 #      columns: '2'
 #  - block: accomplishments
