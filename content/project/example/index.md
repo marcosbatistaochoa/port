@@ -5,8 +5,6 @@ tags:
   - Writing Sample
 date: '2023-11-27T00:00:00Z'
 url: uploads/writingsample.pdf
-# Optional external URL for project (replaces project detail page).
-
 
 #image:
 #  caption: Photo by rawpixel on Unsplash
