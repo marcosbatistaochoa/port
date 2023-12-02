@@ -5,9 +5,9 @@ tags:
   - Writing Sample
 date: '2023-11-27T00:00:00Z'
 
-- icon: pdf
-    icon_pack: ai
-    link: uploads/writingsample.pdf
+icon: pdf
+  icon_pack: ai
+  link: uploads/writingsample.pdf
 #image:
 #  caption: Photo by rawpixel on Unsplash
 #  focal_point: Smart
