@@ -6,7 +6,7 @@ tags:
 date: '2023-11-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-url: uploads/writingsample.pdf
+internal_link: uploads/writingsample.pdf
 
 
 #image:
