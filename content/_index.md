@@ -74,18 +74,18 @@ sections:
 
               * Provide direct care in everyday life to young adult clients with physical disabilities
               * Perform daily tasks including transporting client to and from his college classes and studying with the client
-        - title: Chef/Team Member
-          company: LifeTime Fitness, Inc.
-          company_url: ''
-          company_logo: ''
-          location: Atlanta, Georgia
-          date_start: '2020-11-01'
-          date_end: '2022-05-31'
-          description: |2-
-              Accomplishments:
+#        - title: Chef/Team Member
+#          company: LifeTime Fitness, Inc.
+#          company_url: ''
+#          company_logo: ''
+#          location: Atlanta, Georgia
+#          date_start: '2020-11-01'
+#          date_end: '2022-05-31'
+#          description: |2-
+#              Accomplishments:
 
-        -      * Contributed to most one of the most successful opening months nationwide in 2022 with over $100,000 in revenue generated
-              * Adjusted operations resulting in an 11% decrease in COGS by the third month of operation
+#              * Contributed to most one of the most successful opening months nationwide in 2022 with over $100,000 in revenue generated
+#              * Adjusted operations resulting in an 11% decrease in COGS by the third month of operation
          - title: Packaging Associate
           company: Gold Standard Supplements LLC
           company_url: ''
