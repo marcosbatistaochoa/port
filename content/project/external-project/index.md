@@ -1,6 +1,6 @@
 ---
-title: Excel Budget 2023
-summary: This is an external link to an example of my personal budget in 2023, showcasing my knowledge in Excel.
+title: External Project
+summary: An example of linking directly to an external project website using `external_link`.
 tags:
   - Work Example
 date: "2023-12-04T00:00:00Z"
