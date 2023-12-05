@@ -6,7 +6,7 @@ tags:
 date: "2023-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://docs.google.com/spreadsheets/d/1_0jNUcUZXUO0I9VMhQKs5w1YahCkwwXw/edit?usp=sharing&ouid=107738906891041215820&rtpof=true&sd=true
+external_link: https://example.org
 
 image:
   caption: 
