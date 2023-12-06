@@ -1,6 +1,6 @@
 ---
 title: Writing Sample
-summary: 'This excerpt was taken from a paper written for sociology class (Wealth, Power, and Inequality). The title of the paper is “Beyond Black and White: A Deeper Dive into Marxism and Capitalism”.'
+summary: 'This excerpt was taken from a paper written for sociology class (Wealth, Power, and Inequality). The title of the paper is “Beyond Black and White: A Deeper Dive into Marxism and Capitalism.”'
 tags:
   - Writing Sample
 date: '2023-11-27T00:00:00Z'
