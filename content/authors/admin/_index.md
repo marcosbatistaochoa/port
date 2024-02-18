@@ -21,17 +21,17 @@ role: Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Georgia State University, AYSPS
-    url: https://aysps.gsu.edu/
+  - name: Georgia State University
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am deeply engaged in the study of microeconomics and economic policy analysis, with a particular focus on applying economic principles across diverse fields.
+bio: 
 
 # Interests to show in About widget
 interests:
-  - Microeconomic Analysis
-  - Economic Policy Evaluation
-  - Data Visualization
+  - 
+  - 
+  - 
 
 # Education to show in About widget
 education:
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-I am a student pursuing a BS in Economics and BS in Mathematics at Georgia State University. I excel at translating complex economic and data analysis into accessible narratives, backed by skills in Microsoft Excel and Python. My academic journey fuels my goal to utilize these competencies in economic consultancy, driving strategic insights and impactful innovations.
+I am a student pursuing a BS in Economics and BS in Data Scienceat Georgia State University.
 {style="text-align: justify;"}
